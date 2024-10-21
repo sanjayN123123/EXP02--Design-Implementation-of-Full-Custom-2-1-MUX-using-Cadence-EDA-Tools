@@ -46,7 +46,7 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![image](https://github.com/user-attachments/assets/bd85c763-d697-4ab2-87f3-d677f24227ac)
+![image]()
 
 
  
